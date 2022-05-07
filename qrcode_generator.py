@@ -1,3 +1,5 @@
+# install qrcode and image modules using pip
+
 import qrcode
 import image
 
